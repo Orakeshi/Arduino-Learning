@@ -60,7 +60,7 @@ Arduino Learning
 
 
 ### Showcase
-<img width="100%" src="https://i.imgur.com/pvVvMGR.gif">
+<img width="100%" src="https://i.imgur.com/9KtkFk7.gif">
 
 DESCRIPTION HERE.
 
